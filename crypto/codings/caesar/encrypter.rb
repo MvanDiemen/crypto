@@ -1,5 +1,5 @@
 module Codings
-  module Ceasar
+  module Caesar
     ##
     # Encrypts the given text using a given or random modifier.
     #

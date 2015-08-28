@@ -1,4 +1,4 @@
-require_relative 'codings/ceasar'
+require_relative 'codings/caesar'
 
 ALPHABET = "a".."z".to_a
 

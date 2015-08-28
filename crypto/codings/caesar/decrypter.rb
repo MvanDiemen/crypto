@@ -1,5 +1,5 @@
 module Codings
-  module Ceasar
+  module Caesar
     ##
     # Decrypts Ceasar code.
     #
